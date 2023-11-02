@@ -1,0 +1,6 @@
+[submodule "tic-tac-toe-app"]
+	path = tic-tac-toe-app
+	url = https://github.com/LHKN/tic-tac-toe-app.git
+[submodule "list-app"]
+	path = list-app
+	url = https://github.com/LHKN/list-app.git
